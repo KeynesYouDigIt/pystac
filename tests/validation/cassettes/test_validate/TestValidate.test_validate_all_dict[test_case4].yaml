@@ -446,7 +446,7 @@ interactions:
       Via:
       - 1.1 varnish
       X-Cache:
-      - HIT
+      - MISS
       X-Cache-Hits:
       - '2'
       X-Content-Type-Options:
@@ -570,9 +570,9 @@ interactions:
       Via:
       - 1.1 varnish
       X-Cache:
-      - HIT
+      - MISS
       X-Cache-Hits:
-      - '1'
+      - '0'
       X-Content-Type-Options:
       - nosniff
       X-Fastly-Request-ID:
@@ -724,9 +724,9 @@ interactions:
       Via:
       - 1.1 varnish
       X-Cache:
-      - HIT
+      - MISS
       X-Cache-Hits:
-      - '1'
+      - '0'
       X-Fastly-Request-ID:
       - 4adc29ce9a595db0e8bba4f927f48df14a5e4e3e
       X-GitHub-Request-Id:
@@ -791,9 +791,9 @@ interactions:
       Via:
       - 1.1 varnish
       X-Cache:
-      - HIT
+      - MISS
       X-Cache-Hits:
-      - '1'
+      - '0'
       X-Fastly-Request-ID:
       - 3a296ccae1dad69a0690d0b24dd04ac91cf1ecf3
       X-GitHub-Request-Id:
@@ -873,9 +873,9 @@ interactions:
       Via:
       - 1.1 varnish
       X-Cache:
-      - HIT
+      - MISS
       X-Cache-Hits:
-      - '1'
+      - '0'
       X-Fastly-Request-ID:
       - 2c761f2be337f928d7e8674b82936ecc05009d1e
       X-GitHub-Request-Id:
@@ -942,9 +942,9 @@ interactions:
       Via:
       - 1.1 varnish
       X-Cache:
-      - HIT
+      - MISS
       X-Cache-Hits:
-      - '1'
+      - '0'
       X-Fastly-Request-ID:
       - b85058cd3721293382bb36e0fadc0d504ed1a25a
       X-GitHub-Request-Id:
@@ -1006,9 +1006,9 @@ interactions:
       Via:
       - 1.1 varnish
       X-Cache:
-      - HIT
+      - MISS
       X-Cache-Hits:
-      - '1'
+      - '0'
       X-Fastly-Request-ID:
       - e2c4004ed5992fc7cc4154e5b2f15461b0bd5c16
       X-GitHub-Request-Id:
@@ -1081,9 +1081,9 @@ interactions:
       Via:
       - 1.1 varnish
       X-Cache:
-      - HIT
+      - MISS
       X-Cache-Hits:
-      - '1'
+      - '0'
       X-Fastly-Request-ID:
       - 7617b5f7f04eefc6b5f1dcfe3a488bdbf5e8f608
       X-GitHub-Request-Id:
@@ -1236,7 +1236,7 @@ interactions:
       Via:
       - 1.1 varnish
       X-Cache:
-      - HIT
+      - MISS
       X-Cache-Hits:
       - '1'
       X-Fastly-Request-ID:
@@ -1315,9 +1315,9 @@ interactions:
       Via:
       - 1.1 varnish
       X-Cache:
-      - HIT
+      - MISS
       X-Cache-Hits:
-      - '1'
+      - '0'
       X-Content-Type-Options:
       - nosniff
       X-Fastly-Request-ID:

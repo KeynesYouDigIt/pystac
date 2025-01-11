@@ -267,7 +267,7 @@ interactions:
       Access-Control-Allow-Origin:
       - '*'
       CF-Cache-Status:
-      - EXPIRED
+      - MISS
       CF-Ray:
       - 86ba48d70b7c3354-EWR
       Cache-Control:

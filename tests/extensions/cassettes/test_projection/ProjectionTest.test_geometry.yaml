@@ -841,7 +841,7 @@ interactions:
       Age:
       - '3706'
       CF-Cache-Status:
-      - HIT
+      - MISS
       CF-Ray:
       - 86ba48e0eadc43c9-EWR
       Cache-Control:

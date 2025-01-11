@@ -221,7 +221,7 @@ interactions:
       X-Cache:
       - HIT
       X-Cache-Hits:
-      - '1'
+      - '2'
       X-Fastly-Request-ID:
       - bb1c748b83ff2a8146d220798309759672d99353
       X-GitHub-Request-Id:

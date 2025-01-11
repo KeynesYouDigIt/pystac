@@ -111,9 +111,9 @@ interactions:
       Via:
       - 1.1 varnish
       X-Cache:
-      - HIT
+      - MISS
       X-Cache-Hits:
-      - '1'
+      - '0'
       X-Fastly-Request-ID:
       - 3ae2a56212cd0f873dd77a532a6871ecc94b1851
       X-GitHub-Request-Id:
@@ -203,9 +203,9 @@ interactions:
       Via:
       - 1.1 varnish
       X-Cache:
-      - HIT
+      - MISS
       X-Cache-Hits:
-      - '1'
+      - '0'
       X-Fastly-Request-ID:
       - d6995b3c270e8f87558c61daa93178c7ddb21560
       X-GitHub-Request-Id:
